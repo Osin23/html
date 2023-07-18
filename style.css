@@ -1,0 +1,13 @@
+body {
+    background-color: #6C8CD5;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+h1 {
+text-align: center;
+}
+
+img {
+    border: blue 8px double;
+}
